@@ -1,0 +1,2 @@
+- Analysis and modeling for [Hr Analytics Job Prediction](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) on Kaggle
+- refer to the notebook: analysis.ipynb
